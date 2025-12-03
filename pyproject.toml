@@ -1,0 +1,19 @@
+[project]
+name = "fake-news-detector"
+version = "1.0.0"
+description = "Detector de Fake News con explicaciones transparentes y fuentes citadas"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "gradio>=6.0.2",
+    "openai>=2.8.1",
+    "requests>=2.32.5",
+]
+
+[dependency-groups]
+dev = ["ty>=0.0.1a29"]
+
+[tool.ty]
+src = ["src"]
+python-version = "3.13"
