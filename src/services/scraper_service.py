@@ -1,4 +1,7 @@
 """
+Yefry Shephard de Jesus
+22-SISN-2-020
+
 Web scraping service for extracting content from news URLs.
 """
 

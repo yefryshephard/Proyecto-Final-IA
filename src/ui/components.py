@@ -1,4 +1,7 @@
 """
+Yefry Shephard de Jesus
+22-SISN-2-020
+
 UI components for the Fake News Detector.
 Contains reusable Gradio component builders.
 """

@@ -1,4 +1,7 @@
 """
+Yefry Shephard de Jesus
+22-SISN-2-020
+
 Repository for analysis history persistence using SQLite.
 Follows the Repository pattern for data access abstraction.
 """

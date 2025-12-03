@@ -1,4 +1,7 @@
-"""
+""" 
+Yefry Shephard de Jesus
+22-SISN-2-020
+
 Verification service that orchestrates the complete fact-checking workflow.
 Combines scraping, searching, and AI analysis into a cohesive verification process.
 """

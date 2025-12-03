@@ -1,4 +1,7 @@
 """
+Yefry Shephard de Jesus
+22-SISN-2-020
+
 Main Gradio application builder.
 Creates and configures the complete UI.
 """

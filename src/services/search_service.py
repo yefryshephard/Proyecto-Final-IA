@@ -1,4 +1,7 @@
 """
+Yefry Shephard de Jesus
+22-SISN-2-020
+
 Web search service for fact-checking and source verification.
 Supports multiple search providers: SerpAPI, Bing, Google Custom Search.
 """

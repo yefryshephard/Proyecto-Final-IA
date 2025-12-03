@@ -1,4 +1,7 @@
 """
+Yefry Shephard de Jesus
+22-SISN-2-020
+
 Analysis service for veracity assessment using OpenAI.
 Handles all LLM-based analysis including fact-checking and claim extraction.
 """
